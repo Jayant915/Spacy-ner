@@ -1,4 +1,4 @@
-# 🧠 Custom Named Entity Recognition (NER) using spaCy
+# Custom Named Entity Recognition (NER) using spaCy
 
 This project implements **Named Entity Recognition (NER)** using spaCy to extract meaningful entities such as **Person, Organization, Location, Date**, etc., from raw text data.
 
@@ -34,7 +34,8 @@ spacy-ner/
 ```
 
 ## Project Screenshots
-
+![image alt](https://github.com/Jayant915/Spacy-ner/blob/35d0934a2fa6442a4ef92d1e812317c70556a32d/Screenshot%202026-05-03%20152603.png)
+![image alt](https://github.com/Jayant915/Spacy-ner/blob/35d0934a2fa6442a4ef92d1e812317c70556a32d/Screenshot%202026-05-03%20153052.png)
 
 
 
