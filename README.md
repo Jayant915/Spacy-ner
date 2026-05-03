@@ -2,13 +2,15 @@
 
 This project implements **Named Entity Recognition (NER)** using spaCy to extract meaningful entities such as **Person, Organization, Location, Date**, etc., from raw text data.
 
-## Team Members
+ Team Members
 
-| Name                 | SBU ID  
-| Kumari Kritika Jha   | SBU221841 |
-| Pragya Kumari        | SBU220280 |
-| Anjali Kumari        | SBU220416 |
-| Jayant Kishore       | SBU220283 |
+| Name          | SBU ID   |
+| ------------- | -------- |
+| Kumari Kritika Jha | SBU221841 |
+| Pragya Kumari | SBU220280 |
+| Anjali Kumari | SBU220416 |
+| Jayant Kishore | SBU220283 |
+
 
 ##  Project Description
 
